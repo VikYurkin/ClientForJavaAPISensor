@@ -3,7 +3,6 @@ package ru.VYurkin.ClientForJavaAPISensor.method;
 import org.knowm.xchart.QuickChart;
 import org.knowm.xchart.SwingWrapper;
 import org.knowm.xchart.XYChart;
-import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.ResourceAccessException;
 import org.springframework.web.client.RestTemplate;
 import ru.VYurkin.ClientForJavaAPISensor.model.Measurement;
